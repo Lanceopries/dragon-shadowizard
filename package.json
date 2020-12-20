@@ -1,16 +1,20 @@
 {
-  "name": "errorHandlerTool",
+  "name": "dragon-shadowizard",
   "version": "1.0.0",
-  "description": "A small tool for your error handler",
+  "description": "Add awesome shados for the non-designer.",
   "main": "index.js",
-  "scripts": {
-    "start": "node index",
-    "server": "nodemon index"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanceopries/dragon-shadowizard.git"
   },
+  "keywords": [
+    "shadows"
+  ],
   "author": "Mikhail Martsinyuk",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "nodemon": "^2.0.6"
-  }
+  "bugs": {
+    "url": "https://github.com/Lanceopries/dragon-shadowizard/issues"
+  },
+  "homepage": "https://github.com/Lanceopries/dragon-shadowizard#readme"
 }
