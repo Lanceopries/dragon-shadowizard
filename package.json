@@ -1,21 +1,20 @@
 {
-    "name": "dragon-shadowizard",
-    "version": "1.0.0",
-    "description": "Add awesome shados for the non-designer.",
-    "main": "index.js",
-    "scripts": {},
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Lanceopries/dragon-shadowizard.git"
-    },
-    "keywords": [
-      "shadows"
-    ],
-    "author": "Mikhail Martsinyuk",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Lanceopries/dragon-shadowizard/issues"
-    },
-    "homepage": "https://github.com/Lanceopries/dragon-shadowizard#readme"
-  }
-  
+  "name": "dragon-shadowizard",
+  "version": "1.0.0",
+  "description": "Add awesome shados for the non-designer.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanceopries/dragon-shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Mikhail Martsinyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanceopries/dragon-shadowizard/issues"
+  },
+  "homepage": "https://github.com/Lanceopries/dragon-shadowizard#readme"
+}
