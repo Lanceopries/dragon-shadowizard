@@ -1,0 +1,16 @@
+{
+  "name": "errorHandlerTool",
+  "version": "1.0.0",
+  "description": "A small tool for your error handler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "author": "Mikhail Martsinyuk",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
